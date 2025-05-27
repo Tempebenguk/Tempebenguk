@@ -25,9 +25,9 @@ Just a country kid who loves exploring web, mobile and IoT.
 
 ## 📊 GitHub Statistics 📊
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tempebenguk&show_icons=true&theme=radical" style="width: 400px; height: 200px; object-fit: cover;" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tempebenguk&layout=compact&theme=radical" style="width: 400px; height: 200px; object-fit: cover;" alt="Top Languages" />
+<p align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=tempebenguk&show_icons=true&theme=radical" style="width: 350px; height: 200px; object-fit: contain;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tempebenguk&layout=compact&theme=radical" style="width: 350px; height: 200px; object-fit: contain;" alt="Top Languages" />
 </p>
 
 ---
