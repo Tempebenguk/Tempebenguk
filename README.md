@@ -7,7 +7,7 @@
 
 ---
 
-Just a country kid who loves exploring web, mobile and IoT.
+Just a normal kid who loves exploring web, mobile and IoT.
 
 ---
 
@@ -39,8 +39,8 @@ Just a country kid who loves exploring web, mobile and IoT.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
-  <a href="mailto:erricksb592@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://www.instagram.com/errickseptiannn/" target="_blank" rel="noopener" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 </div>
