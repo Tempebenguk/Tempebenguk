@@ -35,7 +35,7 @@ Just a normal kid who loves exploring web, mobile and IoT.
 ## 🌐 Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/errick-septiano-budiansyah/" target="_blank" rel="noopener" style="text-decoration:none; margin-right: 20px;">
+  <a href="https://www.linkedin.com/in/erricksb/" target="_blank" rel="noopener" style="text-decoration:none; margin-right: 20px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
