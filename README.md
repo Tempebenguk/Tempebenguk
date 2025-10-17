@@ -46,7 +46,7 @@ Just a normal kid who loves exploring web, mobile and IoT.
   With this application, users can easily manage machines, schedule operations, handle spare parts inventory, monitor stock levels, and generate reports efficiently to simplify scheduling and reporting processes.
 </p>
 
----
+----
 
 ### 📌 Project 2 – **Teman Kantor (Scheduling & Administration System)**
 
