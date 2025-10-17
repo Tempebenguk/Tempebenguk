@@ -32,6 +32,36 @@ Just a normal kid who loves exploring web, mobile and IoT.
 
 ---
 
+## 🧾 Portfolio Projects 🧾
+
+### 📌 Project 1 – **SIPM (Machine Scheduling Information System)**
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1YEEODXSwYqmZ8B9jV1bL4ax42VDsdOgr" width="45%" />
+  <img src="https://drive.google.com/uc?export=view&id=1f6q4uavBzEQUMXUGFZh3rTLsgCRlPBFz" width="45%" />
+</p>
+
+<p align="center">
+  SIPM (Machine Scheduling Information System) is a platform specifically designed to assist in scheduling and reporting.  
+  With this application, users can easily manage machines, schedule operations, handle spare parts inventory, monitor stock levels, and generate reports efficiently to simplify scheduling and reporting processes.
+</p>
+
+---
+
+### 📌 Project 2 – **Teman Kantor (Scheduling & Administration System)**
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1xWbn7eshPbcD2XgeegRXPQKOm2RiCU6y" width="45%" />
+  <img src="https://drive.google.com/uc?export=view&id=1X6XeqUU1-z1VsfmyLfP8VrmpQ-nkC_EY" width="45%" />
+</p>
+
+<p align="center">
+  This application is a web-based system for scheduling, borrowing, and data management.  
+  It is designed to record employee information and monitor office administration agendas more efficiently and in an organized manner.
+</p>
+
+---
+
 ## 🌐 Contact Me
 
 <p align="center">
