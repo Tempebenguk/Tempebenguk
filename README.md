@@ -27,8 +27,8 @@ Just a normal kid who loves exploring web, mobile and IoT.
 
 | Year | Certification | Institution | Details |
 |------|---------------|-------------|---------|
-| 2024 | Computer Software Programming | BNSP | [📄 View Certificate](./certificates/Pemrograman-Software-Komputer-BNSP-2024.pdf) |
-| 2024 | Internet of Things Engineering | BNSP | [📄 View Certificate](./certificates/Perekayasaan-Perangkat-IoT-BNSP-2024.pdf) |
+| 2024 | Computer Software Programming | BNSP | [📄 View Certificate](certificates/Pemrograman%20Software%20Komputer.pdf) |
+| 2024 | Internet of Things Device Engineering | BNSP | [📄 View Certificate](certificates/Perekayasaan%20Perangkat%20IoT.pdf) |
 
 > 📌 *Click “View Certificate” to open the corresponding PDF file.*
 
