@@ -80,7 +80,7 @@ Just a normal kid who loves exploring web, mobile and IoT.
 ### 📌 **Air Quality Monitoring (Prototype)**
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1sqOP9MSrVVjBOVppGAwk4hHEdCwSCxQM" width="45%" />
+  <img src="https://drive.google.com/uc?export=view&id=16R6gvk_42jY9diRgrHm70cyYiKoCnMk_" width="45%" />
 </p>
 
 <p align="center">
