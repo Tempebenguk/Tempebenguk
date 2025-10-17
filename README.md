@@ -71,17 +71,16 @@ Just a normal kid who loves exploring web, mobile and IoT.
 
 ----
 
-### 📌 **Starling (Coffee Stall Information System)**
+### 📌 **Poltekgradrepro (Final Project Repository System)**
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1Y6k-hXxZf7YsWmcetwwspfLq0JS8MRPu" width="45%" />
-  <img src="https://drive.google.com/uc?export=view&id=1rhwWqGs_hMvFgngbgJbR-xUQSt_1DKMj" width="45%" />
-  <img src="https://drive.google.com/uc?export=view&id=1yj6Ua6DYXRyAPZNn3ubS2zlbqFPFwkli" width="45%" />
+  <img src="https://drive.google.com/uc?export=view&id=1Ag4_TIW__Q7pw5HCwCctaPLfMHLUNzXR" width="45%" />
+  <img src="https://drive.google.com/uc?export=view&id=1ipmNVypmzYJoxXKJCM8fZy1njuIH-m9x" width="45%" />
 </p>
 
 <p align="center">
-  This application is a web and mobile-based ordering and data management system designed for Starling (mobile coffee stalls).
-  It allows sellers to display menus, record transactions, track income and expenses, and generate automatic receipts to support efficient business operations.
+  PoltekGradRepro is a digital repository system designed to provide students with easy access to published final projects.  
+  It supports research by offering relevant references and helps improve the quality of student work through structured examples.
 </p>
 
 ----
