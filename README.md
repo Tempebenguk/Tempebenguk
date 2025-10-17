@@ -34,7 +34,7 @@ Just a normal kid who loves exploring web, mobile and IoT.
 
 ## 🧾 Portfolio Projects 🧾
 
-### 📌 Project 1 – **SIPM (Machine Scheduling Information System)**
+### 📌 **SIPM (Machine Scheduling Information System)**
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1YEEODXSwYqmZ8B9jV1bL4ax42VDsdOgr" width="45%" />
@@ -48,7 +48,7 @@ Just a normal kid who loves exploring web, mobile and IoT.
 
 ----
 
-### 📌 Project 2 – **Teman Kantor (Scheduling & Administration System)**
+### 📌 **Teman Kantor (Scheduling & Administration System)**
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1xWbn7eshPbcD2XgeegRXPQKOm2RiCU6y" width="45%" />
