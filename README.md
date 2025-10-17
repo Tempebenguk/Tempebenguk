@@ -75,6 +75,18 @@ Just a normal kid who loves exploring web, mobile and IoT.
   It allows sellers to display menus, record transactions, track income and expenses, and generate automatic receipts to support efficient business operations.
 </p>
 
+----
+
+### 📌 **Air Quality Monitoring (Prototype)**
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1GkhcOfKLRtqlSvgF1UvecK98OdEXk7Hb" width="45%" />
+</p>
+
+<p align="center">
+  Air Quality Monitoring is an IoT-based project designed to monitor air quality in real time and detect harmful pollutants such as smoke, CO2, O3, and NO2. Sensor data is sent to the server for analysis, and the system can send automatic alerts via WhatsApp when dangerous levels are detected. This project helps increase awareness of air pollution and ensures safety, especially in laboratory environments.
+</p>
+
 ---
 
 ## 🌐 Contact Me
