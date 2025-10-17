@@ -87,6 +87,19 @@ Just a normal kid who loves exploring web, mobile and IoT.
   Air Quality Monitoring is an IoT-based project designed to monitor air quality in real time and detect harmful pollutants such as smoke, CO2, O3, and NO2. Sensor data is sent to the server for analysis, and the system can send automatic alerts via WhatsApp when dangerous levels are detected. This project helps increase awareness of air pollution and ensures safety, especially in laboratory environments.
 </p>
 
+----
+
+### 📌 **IoT-Based Self-Service Payment System**
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1rQBFZAS-i1TEQ_ucRLN4RRZwVOxFyOGj" width="45%" />
+  <img src="https://drive.google.com/uc?export=view&id=1mC4Is6T4_KUiT_UAE3IM-t0V6yjkeWrF" width="45%" />
+</p>
+
+<p align="center">
+  This IoT-based device is a self-service cash payment kiosk designed to help elderly patients who are not familiar with e-wallets. It integrates a bill acceptor with the Xpdisi system, enabling easy cash transactions in hospitals. The system supports real-time monitoring and improves service efficiency in the healthcare sector.
+</p>
+
 ---
 
 ## 🌐 Contact Me
@@ -95,7 +108,6 @@ Just a normal kid who loves exploring web, mobile and IoT.
   <a href="https://www.linkedin.com/in/erricksb/" target="_blank" rel="noopener" style="text-decoration:none; margin-right: 20px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
   <a href="https://www.instagram.com/errickseptiannn/" target="_blank" rel="noopener" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
