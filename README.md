@@ -15,8 +15,8 @@ Just a normal kid who loves exploring web, mobile and IoT.
 
 | Category     | Tech Stack                                                                                                                                         | Description                   |
 |--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
-| Language     | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Backend & frontend            |
-| Framework    | ![Laravel](https://img.shields.io/badge/Laravel-FC4949?style=flat&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) | Web development               |
+| Language     | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) | Backend & frontend            |
+| Framework    | ![Laravel](https://img.shields.io/badge/Laravel-FC4949?style=flat&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)| Web development               |
 | Database     | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) | Relational & NoSQL databases  |
 | OS           | ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white)                                            | Local development             |
 | IoT          | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-3C3C3C?style=flat&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white) | Embedded systems & prototyping |
@@ -29,15 +29,6 @@ Just a normal kid who loves exploring web, mobile and IoT.
 |------|---------------|-------------|---------|
 | 2024 | Computer Software Programming | BNSP | [📄 View Certificate](certificates/Pemrograman%20Software%20Komputer.pdf) |
 | 2024 | Internet of Things Device Engineering | BNSP | [📄 View Certificate](certificates/Perekayasaan%20Perangkat%20IoT.pdf) |
-
----
-
-## 📊 GitHub Statistics 📊
-
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tempebenguk&show_icons=true&theme=radical" style="height: 200px; width: auto;" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tempebenguk&layout=compact&theme=radical" style="height: 200px; width: auto;" alt="Top Languages" />
-</p>
 
 ---
 
